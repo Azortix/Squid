@@ -1,3 +1,13 @@
+![Logo](Ressources/Logo.png)
+
+
+![Static Badge](https://img.shields.io/badge/Proxy-Squid-%2300A8B0)
+![Static Badge](https://img.shields.io/badge/D%C3%A9ploiement-GPO-%2300A8B0)
+![Static Badge](https://img.shields.io/badge/Pare--feu-OPNsense-orange)
+
+
+
+
 ## Déploiement d'un proxy Squid sur OPNsense
 
 ### 🦑 Présentation du projet
